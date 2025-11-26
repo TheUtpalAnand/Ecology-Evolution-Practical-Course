@@ -1,7 +1,7 @@
 # Ecology & Evolution Practical Course
 
 This repository contains the practical assignments completed as part of the *Ecology and Evolution* course.  
-All practicals listed below were **group projects**. The attached Jupyter notebooks are for Practical 2.
+All practicals listed below were **group projects**. The Jupyter notebooks are for Practical 2.
 
 ## Practical PDFs
 
